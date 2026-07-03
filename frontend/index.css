@@ -15,3 +15,17 @@
         #p2 {
             color: blue;
         }
+        
+        #nav {
+            text-align: center;
+            height: 30px;
+            padding-top: 11px;
+            margin-bottom: 5px;
+            background-color: brown;
+        }
+        
+        #nav a {
+            margin: 0px 5px;
+            text-decoration: none;
+            color: white;
+        }

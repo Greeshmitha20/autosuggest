@@ -16,3 +16,33 @@
     text-align: center;
     margin-top: 40px;
 }
+
+.logo-first {
+    color: blue;
+}
+
+.tag-line {
+    color: grey;
+}
+
+.lens {
+    position: relative;
+    left: 35px;
+}
+
+.search-box {
+    padding: 15px 15px 15px 45px;
+    border-radius: 30px;
+    width: 30%;
+}
+
+#suggestion-box {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#suggestion-box input {
+    border: 1px solid grey;
+    padding: 6px 15px;
+    background-color: white;
+}

@@ -1,12 +1,12 @@
 const users = [{
         "name": "Jane Doe",
         "gender": "Female",
-        "image": "../images/jane.png"
+        "image": "./image/jane.png"
     },
     {
         "name": "John Doe",
         "gender": "Male",
-        "image": "../images/john.png"
+        "image": "./image/john.png"
     },
 ]
 let curUserId = 0;

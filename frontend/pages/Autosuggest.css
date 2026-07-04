@@ -1,0 +1,18 @@
+#upper {
+    display: flex;
+    align-items: center;
+}
+
+#upper span:last-child {
+    position: fixed;
+    and top: 20px;
+    right: 20px;
+    font-size: 12px;
+    margin-left: auto;
+    display: flex;
+}
+
+#searchbar {
+    text-align: center;
+    margin-top: 40px;
+}

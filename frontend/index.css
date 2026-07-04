@@ -1,53 +1,62 @@
-        h1 {
-            color: red;
-        }
-        /*property:value */
-        
-        #home-intro {
-            text-align: center;
-            border: 3px solid blue;
-        }
-        
-        #home-intro:hover {
-            background-color: grey;
-        }
-        
-        #p2 {
-            color: blue;
-        }
-        
-        #nav {
-            text-align: center;
-            height: 30px;
-            padding-top: 11px;
-            margin-bottom: 5px;
-            background-color: brown;
-        }
-        
-        #nav a {
-            margin: 0px 5px;
-            text-decoration: none;
-            color: white;
-        }
-        
-        #card {
-            border: 2px solid black;
-            width: 300px;
-            overflow: hidden;
-            margin: 20px auto;
-            text-align: center;
-        }
-        
-        #card-img img {
-            width: 300px;
-            height: 300px;
-        }
-        
-        img {
-            width: 300px;
-            height: 300px;
-        }
-        
-        #action {
-            text-align: center;
-        }
+h1 {
+    color: red;
+}
+
+
+/*property:value */
+
+#home-intro {
+    text-align: center;
+    border: 3px solid blue;
+}
+
+#home-intro:hover {
+    background-color: grey;
+}
+
+#p2 {
+    color: blue;
+}
+
+#nav {
+    text-align: center;
+    height: 30px;
+    padding-top: 11px;
+    margin-bottom: 5px;
+    background-color: brown;
+}
+
+#nav a {
+    margin: 0px 5px;
+    text-decoration: none;
+    color: white;
+}
+
+#card {
+    border: 3px solid black;
+    width: 300px;
+    margin: 3px auto;
+    text-align: center;
+    margin-top: 5px;
+    height: 580px;
+    border-radius: 8px;
+}
+
+#card-img img {
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+#action {
+    text-align: center;
+}
+
+button {
+    width: 100%;
+}
